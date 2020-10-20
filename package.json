@@ -10,6 +10,9 @@
     "type": "git",
     "url": "?.git"
   },
-  "author": "Kadir Amin"
- 
+  "author": "Kadir Amin",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-util": "^3.0.8"
+  }
 }
